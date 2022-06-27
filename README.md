@@ -3,7 +3,8 @@
 Sample project to practice queries to mysql
 
 1. Install Java
-  -
+  - Download JDK from [https://adoptopenjdk.net/](https://adoptopenjdk.net/) (Prefer the latest LTS version)
+  - Run the installer (msi file)
 
 2. Install Maven
   - Go to [https://maven.apache.org/download.cgi](https://maven.apache.org/download.cgi) and download "Binary zip archive" file.
